@@ -5,13 +5,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         try(Scanner scan = new Scanner(System.in)) {
-            Hello(scan);
+            hello(scan);
             nameCheck(scan);
             arrayCheck(scan);
         }
     }
 
-    private static void Hello(Scanner scan) {
+    private static void hello(Scanner scan) {
         System.out.print("Введите число: ");
         double num = scan.nextInt();
         if (num > 7) {
