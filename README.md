@@ -1,4 +1,4 @@
-# AstonTrainee
+# AstonTraineeAQA
 Код на задания 1-3 в папке src.
 
 Ответ на задание 4:
